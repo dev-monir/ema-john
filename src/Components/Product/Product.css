@@ -1,0 +1,14 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid rgb(204, 184, 184);
+  margin: 10px 10px 10px 40px;
+  padding: 10px;
+}
+.product-txt {
+  padding-left: 30px;
+  margin-left: 20px;
+}
+.product-txt h4 {
+  color: blue;
+  font-weight: 400;
+}
